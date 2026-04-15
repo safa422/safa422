@@ -49,16 +49,6 @@
 
 ---
 
-### 🔥 Featured Project
-
-<p align="center">
-  <a href="https://github.com/safa422/steam-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safa422&repo=steam-frontend&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
