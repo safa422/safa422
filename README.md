@@ -40,7 +40,7 @@
 
 #### ☕ Other Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,linux&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,linux,vscode,idea,pycharm,anaconda,jupyter&theme=light" />
 <img src="https://img.shields.io/badge/oracle-F9A8D4?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/qt-C084FC?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
