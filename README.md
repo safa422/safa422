@@ -2,7 +2,11 @@
 <h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f9a8d4,100:c084fc&height=140&section=header&text=Safa&fontColor=ffffff&fontSize=40" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=IT+student;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
@@ -14,11 +18,11 @@
 ### 👩‍💻 About Me
 
 <p align="center">
-<img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300" />
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
 </p>
 
 - 🎓 Student in Information Systems & Software Engineering  
-- 🎯 Passionate about frontend development and Machine Learning
+- 🎯 Passionnée par le développement frontend et le Machine Learning  
 - 🌱 Currently learning: **JavaScript, Advanced CSS, UI Design**  
 - 💡 I build clean, modern and user-friendly interfaces  
 - 🚀 Goal: Become a professional frontend engineer
@@ -29,22 +33,22 @@
 
 #### 🌐 Frontend
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,figma,d3" />
+<img src="https://skillicons.dev/icons?i=html,css,figma,d3&theme=light" />
 </p>
 
 #### 🐍 Python & ML
 <p align="center">
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python&theme=light" />
+<img src="https://img.shields.io/badge/pandas-F472B6?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-F9A8D4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/opencv-C084FC?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
 #### ☕ Other Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,linux" />
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=java,linux&theme=light" />
+<img src="https://img.shields.io/badge/oracle-F9A8D4?style=for-the-badge&logo=oracle&logoColor=white" />
+<img src="https://img.shields.io/badge/qt-C084FC?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
 ---
