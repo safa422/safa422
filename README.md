@@ -2,12 +2,21 @@
 <h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=500&lines=IT+student;UI+Design+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=0F766E&center=true&vCenter=true&width=600&lines=Frontend+Developer;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=120&section=header" />
 </p>
 
 ---
 
 ### 👩‍💻 About Me
+
+<p align="center">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+</p>
+
 - 🎓 Student in Information Systems & Software Engineering  
 - 🎯 Passionnée par le développement frontend et le Machine Learning  
 - 🌱 Currently learning: **JavaScript, Advanced CSS, UI Design**  
@@ -40,6 +49,16 @@
 
 ---
 
+### 🔥 Featured Project
+
+<p align="center">
+  <a href="https://github.com/safa422/steam-frontend">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safa422&repo=steam-frontend&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -60,9 +79,13 @@
 ### 🧠 Quote
 
 <p align="center">
-  "First, solve the problem. Then, write the code." 💡
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=120&section=footer" />
+</p>
 
 <p align="center">✨ Thanks for visiting my profile ✨</p>
