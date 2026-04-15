@@ -33,16 +33,17 @@
 <img src="https://skillicons.dev/icons?i=python&theme=light" />
 <img src="https://img.shields.io/badge/pandas-F472B6?style=for-the-badge&logo=pandas&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-F9A8D4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-<img src="https://img.shields.io/badge/opencv-C084FC?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/qt-C084FC?style=for-the-badge&logo=qt&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/PySide6-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
 ---
 
 #### ☕ Other Tools
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,linux,vscode,idea,pycharm,anaconda,jupyter&theme=light" />
+<img src="https://skillicons.dev/icons?i=java,linux,vscode,idea,pycharm,anaconda&theme=light" />
 <img src="https://img.shields.io/badge/oracle-F9A8D4?style=for-the-badge&logo=oracle&logoColor=white" />
-<img src="https://img.shields.io/badge/qt-C084FC?style=for-the-badge&logo=qt&logoColor=white" />
 </p>
 
 ---
