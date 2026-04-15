@@ -14,10 +14,10 @@
 ### 👩‍💻 About Me
 
 - 🎓 Student in Information Systems & Software Engineering  
-- 🎯 Passionnée par le développement frontend et le Machine Learning  
+- 🎯 Passionate about frontend development and Machine Learning 
 - 🌱 Currently learning: **JavaScript, Advanced CSS, UI Design**  
 - 💡 I build clean, modern and user-friendly interfaces  
-- 🚀 Goal: Become a professional frontend engineer
+- 🚀 Goal: cybersecurity baby
 
 ---
 
