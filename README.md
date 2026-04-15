@@ -9,7 +9,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=120&section=header" />
 </p>
 
----
 
 ### 👩‍💻 About Me
 
@@ -72,7 +71,6 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1d4ed8,100:0f766e&height=120&section=footer" />
