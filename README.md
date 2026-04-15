@@ -12,10 +12,6 @@
 
 ### 👩‍💻 About Me
 
-<p align="center">
-  <img src="<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" style="border-radius: 15px;" />
-</p>
-
 - 🎓 Student in Information Systems & Software Engineering  
 - 🎯 Passionnée par le développement frontend et le Machine Learning  
 - 🌱 Currently learning: **JavaScript, Advanced CSS, UI Design**  
