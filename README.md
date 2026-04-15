@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=120&section=header" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Safa</h1>
 <h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
@@ -5,10 +9,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=IT+student;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f766e,100:1d4ed8&height=120&section=header" />
-</p>
-
+---
 
 ### 👩‍💻 About Me
 
@@ -21,6 +22,7 @@
 ---
 
 ### 🚀 Tech Stack
+
 
 #### 🌐 Frontend
 <p align="center">
