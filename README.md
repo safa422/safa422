@@ -2,10 +2,6 @@
 <h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:f9a8d4,100:c084fc&height=140&section=header&text=Safa&fontColor=ffffff&fontSize=40" />
-</p>
-
-<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=IT+student;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
@@ -17,11 +13,7 @@
 ### 👩‍💻 About Me
 
 <p align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260" />
-</p>
-
-<p align="center">
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="300" />
+  <img src="<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>" width="100%" style="border-radius: 15px;" />
 </p>
 
 - 🎓 Student in Information Systems & Software Engineering  
