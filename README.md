@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Safa</h1>
-<h3 align="center">💻 Frontend Developer | Machine Learning Enthusiast</h3>
+<h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=500&lines=Frontend+Developer;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=500&lines=student+in+Information+Systems+&+Software+Engineering;UI+Design+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -36,16 +36,6 @@
 <img src="https://skillicons.dev/icons?i=java,linux" />
 <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 <img src="https://img.shields.io/badge/qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
-</p>
-
----
-
-### 🔥 Featured Project
-
-<p align="center">
-  <a href="https://github.com/safa422/steam-frontend">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=safa422&repo=steam-frontend&theme=tokyonight&hide_border=true" />
-  </a>
 </p>
 
 ---
