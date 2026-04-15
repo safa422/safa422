@@ -2,7 +2,7 @@
 <h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=500&lines=student+in+Information+Systems+&+Software+Engineering;UI+Design+Lover;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=0F766E&center=true&vCenter=true&width=500&lines=IT+student;UI+Design+Lover;Always+Learning+New+Things" />
 </p>
 
 ---
