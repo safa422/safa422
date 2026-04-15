@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Frontend-Developer-0f766e?style=for-the-badge" alt="Frontend Developer" />
+  <img src="https://img.shields.io/badge/Frontend-Developer-0f766e?style=for-the-badge" alt=" IT student" />
   <img src="https://img.shields.io/badge/Based%20in-Algeria-1d4ed8?style=for-the-badge" alt="Based in Algeria" />
   <img src="https://img.shields.io/badge/Learning-JavaScript%20%7C%20Advanced%20CSS%20%7C%20UI%20Design-f59e0b?style=for-the-badge" alt="Learning" />
 </p>
@@ -16,7 +16,7 @@
 ---
 
 ## About Me
--student in information systems and software engineering
+- student in information systems and software engineering
 - Passionate about frontend development and machine learning
 - Currently learning JavaScript, and UI design
 - Interested in creating modern, intuitive, and intelligent interfaces
@@ -80,7 +80,7 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=safa422&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 </p>
 
 ## Streak Stats
