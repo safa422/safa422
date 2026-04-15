@@ -13,7 +13,7 @@
 ### 👩‍💻 About Me
 
 <p align="center">
-  <img src="<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="260"/>" width="100%" style="border-radius: 15px;" />
+  <img src="<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" style="border-radius: 15px;" />
 </p>
 
 - 🎓 Student in Information Systems & Software Engineering  
