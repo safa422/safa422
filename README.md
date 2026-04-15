@@ -6,7 +6,7 @@
 <h3 align="center">🎓 Student in Information Systems & Software Engineering</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=IT+student;UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=UI+Design+Lover;Machine+Learning+Enthusiast;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -21,13 +21,12 @@
 
 ---
 
-### 🚀 Tech Stack
-
-
 #### 🌐 Frontend
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,figma,d3&theme=light" />
 </p>
+
+---
 
 #### 🐍 Python & ML
 <p align="center">
@@ -36,6 +35,8 @@
 <img src="https://img.shields.io/badge/scikit--learn-F9A8D4?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 <img src="https://img.shields.io/badge/opencv-C084FC?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
+
+---
 
 #### ☕ Other Tools
 <p align="center">
